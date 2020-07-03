@@ -1,0 +1,10 @@
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\bin\x86\Release\SQL Test.exe.config
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\bin\x86\Release\SQL Test.exe
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\bin\x86\Release\SQL Test.pdb
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\bin\x86\Release\libpdf.dll
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\obj\x86\Release\SQL_Test.frmMethodInfo.resources
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\obj\x86\Release\SQL_Test.Properties.Resources.resources
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\obj\x86\Release\SQL Test.csproj.GenerateResource.Cache
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\obj\x86\Release\SQL Test.csproj.CoreCompileInputs.cache
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\obj\x86\Release\SQL Test.exe
+C:\Users\Marius Belgium\Downloads\MethodCard (Marius)\SQL Test\SQL Test\obj\x86\Release\SQL Test.pdb
